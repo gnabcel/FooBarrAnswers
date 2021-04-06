@@ -35,5 +35,4 @@ def solution(src, dest):
             numberMoves += 1
     return numberMoves
 
-# print(solution(0,1))
 
